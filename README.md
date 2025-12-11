@@ -1,4 +1,16 @@
-# **📘 Automated Aircraft Marshalling System – Complete Design Document**
+<div align="center">
+
+![Automated Marshalling](https://img.shields.io/badge/Automated-Marshalling-blueviolet?style=for-the-badge)
+![Mini VDGS](https://img.shields.io/badge/Mini-VDGS-teal?style=for-the-badge)
+![Sensor Fusion](https://img.shields.io/badge/Sensor-Fusion-yellow?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green?style=for-the-badge)
+![Aviation Safety](https://img.shields.io/badge/Aviation-Safety-red?style=for-the-badge)
+![Hackathon Project](https://img.shields.io/badge/Hackathon-Project-orange?style=for-the-badge)
+
+# ✈️🌟 Welcome to the **Automated Aircraft Marshalling System** Repository 🚀  
+### A Low-Cost, Portable, Mini-VDGS Designed for Smart Aviation Guidance
+
+</div>
 
 ---
 
