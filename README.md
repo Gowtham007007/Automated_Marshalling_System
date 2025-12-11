@@ -14,6 +14,18 @@
 
 ---
 
+## 📑 Table of Contents
+
+1. [Phase 1 – Problem Definition & Environment Constraints](https://github.com/Gowtham007007/Automated_Marshalling_System/tree/main/Phase_1)
+2. [Phase 2 – Hardware + Firmware Architecture](https://github.com/Gowtham007007/Automated_Marshalling_System/tree/main/Phase_2)
+3. [Phase 3 – Sensor/Actuator Integrated Prototype](https://github.com/Gowtham007007/Automated_Marshalling_System/tree/main/Phase_3)
+4. [Phase 4 – Autonomous Operation Implementation](https://github.com/Gowtham007007/Automated_Marshalling_System/tree/main/Phase_4)
+5. [Phase 5 – Calibration, Debugging & Field Reliability Fixes](https://github.com/Gowtham007007/Automated_Marshalling_System/tree/main/Phase_5)
+   
+
+   ---
+
+
 # **📑 Table of Contents**
 
 1. ✈️ Problem Description
